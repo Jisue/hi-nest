@@ -83,15 +83,15 @@ v1
 프로젝트 환경 구축
 실행 : npm run start:dev
 
-v1
+v2
 
-movie API
+##movie API
 
-- controller
- movies controller 생성
- 컨트롤러를 통해 라우트
-  ( url 매핑, request받기, Query넘기기 등의 작업 )
+#controller
+movies controller 생성
+컨트롤러를 통해 라우트
+( url 매핑, request받기, Query넘기기 등의 작업 )
 
-- service
- movies의 로직을 관리 ( single responsibility principle )
- DB 파트
+#service
+movies의 로직을 관리 ( single responsibility principle )
+DB 파트
