@@ -88,10 +88,10 @@ v1
 movie API
 
 - controller
-* movies controller 생성
-* 컨트롤러를 통해 라우트
+ movies controller 생성
+ 컨트롤러를 통해 라우트
   ( url 매핑, request받기, Query넘기기 등의 작업 )
 
 - service
-* movies의 로직을 관리 ( single responsibility principle )
-* DB 파트
+ movies의 로직을 관리 ( single responsibility principle )
+ DB 파트
