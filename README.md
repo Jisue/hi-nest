@@ -78,5 +78,12 @@ Nest is [MIT licensed](LICENSE).
 
 #2021-01-29
 
+v1
+
 프로젝트 환경 구축
 실행 : npm run start:dev
+
+v1
+
+movie API
+* movies controller 생성
